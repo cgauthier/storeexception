@@ -1,0 +1,6 @@
+{
+	"success": true,
+	"statusCode": "500",
+	"errMsg": ["The service has not executed correctly"],
+	"data": []
+}

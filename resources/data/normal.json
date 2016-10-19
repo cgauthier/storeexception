@@ -1,0 +1,18 @@
+{
+	"success": true,
+	"statusCode": "200",
+	"errMsg": [],
+	"data": [{
+        "name": "Claude",
+        "address": "40 1st Avenue",
+        "phone": "555 111 2222"
+    }, {
+        "name": "Jeremy",
+        "address": "50 2nd Avenue",
+        "phone": "666 222 3333"
+    }, {
+        "name": "Shouki",
+        "address": "60 3rd Avenue",
+        "phone": "777 333 4444"
+    }]
+}
